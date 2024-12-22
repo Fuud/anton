@@ -1,0 +1,24 @@
+p{
+  color: #1dcfc9;
+}
+
+body{
+
+   background-color: silver;
+}
+
+#topbar{
+
+  min-height:300px;
+  width:100%;
+  background-color:white;
+
+}
+
+#topbar p{
+
+  font-size:6vmin;
+  display: inline-block;
+  background-color:white;
+  
+}
